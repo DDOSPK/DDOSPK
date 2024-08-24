@@ -6,10 +6,10 @@
             "version": "latest"
         }
     },
-    "postStartCommand": "python3 /workspaces/DDOSPK/.py",
+    "postStartCommand": "python3 /workspaces/DDOPK/.py",
     "customizations": {
         "vscode": {
-            "settings": {
+            "settings":
                 "python.pythonPath": "/usr/local/bin/python"
             },
             "extensions": [
